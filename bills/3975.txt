@@ -1,0 +1,17 @@
+	 Welcome To The Mini Mall
+ Bill Number:3975
+ Customer Name:
+ Phone Number:
+ Customer Email:
+==========================================
+ Product		QTY		Price
+===========================================
+ Lifeboy		1		20
+ Lifeboy		1		20
+ Lifeboy		1		20
+ Lifeboy		1		20
+
+=========================================
+ Sub Amount:			Rs.80.00
+ Total Amount:			Rs.80.60
+=========================================

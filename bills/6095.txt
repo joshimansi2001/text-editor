@@ -1,0 +1,17 @@
+	 Welcome To The Mini Mall
+ Bill Number:6095
+ Customer Name:1233
+ Phone Number:mnb
+ Customer Email:dfr
+==========================================
+ Product		QTY		Price
+===========================================
+ Lux		1		20
+ Lux		1		20
+ Lux		1		20
+ Lux		1		20
+
+=========================================
+ Sub Amount:			Rs.80.00
+ Total Amount:			Rs.80.60
+=========================================

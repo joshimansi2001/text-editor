@@ -1,0 +1,18 @@
+	 welcome to the mini mall
+ Bill Number:9666
+ Customer Name:
+ Phone Number:
+ Customer Email:
+==========================================
+ Product		QTY		Price
+===========================================
+ Bajaj		1		30
+ Bajaj		1		30
+ Bajaj		1		30
+ Bajaj		1		30
+ Bajaj		1		30
+
+=========================================
+ Sub Amount:			Rs.150.00
+ Total Amount:			Rs.151.20
+=========================================

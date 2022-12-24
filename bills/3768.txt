@@ -1,0 +1,15 @@
+	 Welcome To The Mini Mall
+ Bill Number:3768
+ Customer Name:preeti
+ Phone Number:8775554
+ Customer Email:hdidj
+==========================================
+ Product		QTY		Price
+===========================================
+ Samsung M12		6		72000
+
+
+=========================================
+ Sub Amount:			Rs.84000.00
+ Total Amount:			Rs.84720.00
+=========================================

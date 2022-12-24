@@ -1,0 +1,15 @@
+	 Welcome To The Mini Mall
+ Bill Number:5195
+ Customer Name:mansi
+ Phone Number:8172635
+ Customer Email:jsoshi
+==========================================
+ Product		QTY		Price
+===========================================
+ Roadstar		1		4000
+ Roadstar		3		12000
+
+=========================================
+ Sub Amount:			Rs.16000.00
+ Total Amount:			Rs.16120.00
+=========================================

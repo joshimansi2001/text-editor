@@ -1,0 +1,15 @@
+	 Welcome To The Mini Mall
+ Bill Number:6367
+ Customer Name:
+ Phone Number:
+ Customer Email:
+==========================================
+ Product		QTY		Price
+===========================================
+ Levis		1		5000
+ Jashmin		4		200
+
+=========================================
+ Sub Amount:			Rs.5200.00
+ Total Amount:			Rs.5251.50
+=========================================

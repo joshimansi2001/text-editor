@@ -1,0 +1,16 @@
+	 welcome to the mini mall
+ Bill Number:9920
+ Customer Name:
+ Phone Number:
+ Customer Email:
+==========================================
+ Product		QTY		Price
+===========================================
+ Roadstar		1		4000
+ Roadstar		1		4000
+ Roadstar		1		4000
+
+=========================================
+ Sub Amount:			Rs.12000.00
+ Total Amount:			Rs.12080.00
+=========================================

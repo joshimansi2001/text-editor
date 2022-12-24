@@ -1,0 +1,16 @@
+	 welcome to the mini mall
+ Bill Number:8618
+ Customer Name:mansi
+ Phone Number:14252728494
+ Customer Email:joshi
+==========================================
+ Product		QTY		Price
+===========================================
+ Lifeboy		1		20
+ Lux		1		20
+ Lux		1		20
+
+=========================================
+ Sub Amount:			Rs.60.00
+ Total Amount:			Rs.60.40
+=========================================
